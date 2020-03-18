@@ -2,4 +2,7 @@ Rencana tambahan:
 
 belajar javascript
 belajar angular dan nodeJS
-belajar laravel
+belajar MongoDB
+belajar postman
+belajar ReactJS
+
